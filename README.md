@@ -6,7 +6,7 @@ Desafio Pokedex
 
 Desafio de código DIO
 
-[🔗 Clique aqui para acessar](https://github.com/Coach-Wiki/pokedex/)
+[🔗 Previa aqui!](https://coach-wiki.github.io/pokedex/)
 
 
 
