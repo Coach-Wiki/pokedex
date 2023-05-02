@@ -1,6 +1,6 @@
 # Pokedex
 
-![preview](https://prnt.sc/IytDFVebLK54)
+![preview](./.github/download.png)
 
 Desafio Pokedex
 
