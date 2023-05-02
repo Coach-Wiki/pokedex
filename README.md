@@ -1,7 +1,8 @@
 # Pokedex
 
-![preview](![download](https://user-images.githubusercontent.com/65440846/235795951-76962c88-c9ec-4b17-8ba0-8e426f706f37.png)
+![preview](![download](https://user-images.githubusercontent.com/65440846/235796073-cf9a176a-6a4e-4dce-9ab2-fffc634afa2e.png)
 )
+
 
 Desafio Pokedex
 
