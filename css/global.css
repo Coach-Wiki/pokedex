@@ -1,0 +1,42 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Open Sans', sans-serif;*/
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: pokeH;
+    src:url(/dio/fonts/pokeH.ttf);
+}
+@font-face {
+    font-family: pokemonClassic;
+    src:url(/dio/fonts/pokemonClassic.ttf);
+  }
+
+body {
+    background-color: #022006;
+}
+
+h1{
+    font-family: pokeH;
+    text-align: center;
+    font-size: 45px;
+}
+.content {
+    width: 100vw;
+    height: 100vh;
+    padding: 1rem;
+    background: #e8eecc;
+  
+}
+.titulo {
+    margin: 0;
+}
+@media screen and (min-width: 992px) {
+    .content {
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+}
