@@ -1,6 +1,6 @@
 # Pokedex
 
-![preview](./.github/download.png)
+![preview](./.github/pokedex/download.png)
 
 Desafio Pokedex
 
