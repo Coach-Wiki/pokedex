@@ -8,6 +8,7 @@
 Desafio Pokedex
 
 Desafio de código - Potência Tech Angular Developer - Powered by iFood 
+
 [🔗 Previa aqui!](https://coach-wiki.github.io/pokedex/)
 
 
