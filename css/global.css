@@ -6,11 +6,11 @@
 
 @font-face{
     font-family: pokeH;
-    src:url(/dio/fonts/pokeH.ttf);
+    src:url(/fonts/pokeH.ttf);
 }
 @font-face {
     font-family: pokemonClassic;
-    src:url(/dio/fonts/pokemonClassic.ttf);
+    src:url(/fonts/pokemonClassic.ttf);
   }
 
 body {
