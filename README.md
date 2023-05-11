@@ -2,9 +2,6 @@
 
 ![preview](https://user-images.githubusercontent.com/65440846/235797379-fdeac046-ec75-4e71-91cc-fdc927857798.png)
 
-![fire](https://github.com/coach-wiki/pokedex/assets/65440846/f0b67438-6f8a-402f-bd21-0fcf7e0db19d)
-
-
 
 Desafio Pokedex
 
